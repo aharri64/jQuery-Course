@@ -2,6 +2,10 @@
 
 ## What is the DOM?
 
+[W3 schools DOM explanation](https://www.w3schools.com/js/js_htmldom.asp)
+
+[Mozilla DOM explanation](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
 ## Adding New Elements to the DOM
 
 ```js
