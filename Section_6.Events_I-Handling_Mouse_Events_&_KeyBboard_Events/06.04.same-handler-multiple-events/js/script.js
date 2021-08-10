@@ -4,7 +4,7 @@ $(function () {
     //     console.log("Mouse was clicked or a key was pressed);
     // });
     
-    var galleryImage = $(".gallery").find("img").first();
+    
     var images = [
         "images/laptop-mobile_small.jpg",
         "images/laptop-on-table_small.jpg",
