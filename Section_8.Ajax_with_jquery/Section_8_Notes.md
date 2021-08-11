@@ -2,6 +2,15 @@
 
 ## What is Ajax
 
+This request is asynchronous
+![What is Ajax](/whatisajax.png)
+
+#### Kinds of requests for ajax
+
+```js
+// $.get(), $.post(), $.ajax(), $.getJSON()
+```
+
 ## Fetching a Server File with jQuery
 
 ```js
